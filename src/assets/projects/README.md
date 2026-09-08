@@ -1,0 +1,1 @@
+Place real project screenshots in this folder when available. The current portfolio uses code-generated visual previews in `src/components/ProjectVisual.jsx`, so no fake project screenshots are included.
